@@ -234,7 +234,3 @@ Deployment helpers already present:
 - Keep retrieval and generation behavior aligned with the current API contract.
 - If you change RAG thresholds/config, update docs and test with both in-domain and out-of-domain prompts.
 - If model artifacts or parameter count metadata changes, update this README and health reporting together.
-
-## License
-
-No explicit license file is currently present in this repository. Add one before public redistribution if needed.
