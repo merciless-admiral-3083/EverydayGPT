@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/merciless-admiral-3083/Backend_GPT
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/merciless-admiral-3083/Frontend_GPT
