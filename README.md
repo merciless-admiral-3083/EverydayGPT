@@ -1,4 +1,17 @@
 # EverydayGPT
+[![arXiv](https://img.shields.io/badge/arXiv-2606.11212-b31b1b.svg)](https://arxiv.org/abs/2606.11212)
+
+**Paper:** https://arxiv.org/abs/2606.11212
+
+**Model:** https://huggingface.co/merciless-admiral/EverydayGPT-205M
+
+**Demo/API:** https://huggingface.co/spaces/merciless-admiral/rag-gpt-backend
+
+**Author:** Jaspreet Singh Nahal
+
+## EverydayGPT: Confidence-Gated Routing for Efficient and Safe Hybrid GPT-RAG Conversational QA
+
+This repository contains the official implementation of EverydayGPT, a hybrid GPT-RAG conversational QA system introducing Confidence-Gated Routing (CGR) for efficient and safe retrieval-augmented generation.
 
 EverydayGPT is a full-stack, retrieval-augmented chatbot project built around a custom GPT model and a FAISS-backed knowledge retriever.
 
