@@ -1,6 +1,9 @@
 
 
-https://github.com/user-attachments/assets/58c267e2-4484-4ba5-9120-e1a8be207db1
+
+
+https://github.com/user-attachments/assets/39fe9a0e-3f25-41e0-b959-38989355f988
+
 
 # EverydayGPT
 [![arXiv](https://img.shields.io/badge/arXiv-2606.11212-b31b1b.svg)](https://arxiv.org/abs/2606.11212)
