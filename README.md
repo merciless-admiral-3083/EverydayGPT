@@ -1,3 +1,16 @@
+## 🎥 Demo Video
+
+Watch EverydayGPT in action:
+
+[▶ Demo Video](https://github.com/merciless-admiral-3083/EverydayGPT/blob/main/Recording%202026-06-11%20120621.mp4)
+
+The demonstration showcases:
+
+* Confidence-Gated Routing (CGR)
+* Retrieval-Augmented Generation (RAG)
+* Dynamic routing between retrieval and GPT generation
+* Safe refusal behavior for unsupported queries
+* End-to-end conversational question answering
 # EverydayGPT
 [![arXiv](https://img.shields.io/badge/arXiv-2606.11212-b31b1b.svg)](https://arxiv.org/abs/2606.11212)
 
